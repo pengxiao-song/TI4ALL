@@ -119,7 +119,7 @@ python main.py
   
   - 优化项目结构，简单的代码重构
   
-- 2022.07.02 TI4ALL beta/v3.0  @Shixq[@Xuanqing-Shi](https://github.com/Xuanqing-Shi)
+- 2022.07.02 TI4ALL beta/v3.0  [@Xuanqing-Shi](https://github.com/Xuanqing-Shi)
 
   - 界面优化：优化工作日志区；增加结果显示区
   
