@@ -9,10 +9,12 @@
   </a>
 </p>
 <p align="center">
-    <a href="https://github.com/pengxiao-song/ti4all/releases/tag/v3.1"><img src="https://img.shields.io/badge/release-3.1-green"></a>
+    <a href="https://github.com/pengxiao-song/ti4all/releases"><img src="https://img.shields.io/github/v/release/pengxiao-song/ti4all"></a>
+    <a href=""><img src="https://img.shields.io/github/release-date-pre/pengxiao-song/ti4all"></a>
     <a href=""><img src="https://img.shields.io/badge/python-3.8+-aff.svg"></a>
     <a href=""><img src="https://img.shields.io/badge/os-win10/11-pink.svg"></a>
     <a href=""><img src="https://img.shields.io/badge/support-NUAA-blue.svg"></a>
+    
 </p>
 <p align="center">
 “九秋风露越窑开，夺得千峰翠色来”，立秋将至，祝我们在金秋九月收获美好！
