@@ -209,4 +209,3 @@ pyinstaller gui.spec [--noconsole]
 
 感谢提供测试数据的同学！感谢一起优化程序的两位队友（贡献者）：Huang-zhelong, Shi-xuanqing
 
-感谢新华日报、扬子晚报等媒体报道。
