@@ -1,0 +1,8 @@
+# cache
+.pytest_cache
+.vscode
+__pycache__
+.qt_for_python
+
+# .zip
+*.zip
