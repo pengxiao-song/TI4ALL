@@ -9,7 +9,7 @@
   </a>
 </p>
 <p align="center">
-    <a href=""><img src="https://img.shields.io/badge/release-3.1-green"></a>
+    <a href="https://github.com/pengxiao-song/ti4all/releases/tag/v3.1"><img src="https://img.shields.io/badge/release-3.1-green"></a>
     <a href=""><img src="https://img.shields.io/badge/python-3.8+-aff.svg"></a>
     <a href=""><img src="https://img.shields.io/badge/os-win10/11-pink.svg"></a>
     <a href=""><img src="https://img.shields.io/badge/support-NUAA-blue.svg"></a>
@@ -41,7 +41,9 @@
 
 ### 客户端教程
 
-百度网盘：[下载链接](https://pan.baidu.com/s/11Xvp-V0L5Cg8-LCNBWan2w?pwd=ccst)    提取码：ccst
+- Github Release：[下载链接](https://github.com/pengxiao-song/ti4all/releases/download/v3.1/v3.1.zip)
+
+- 百度网盘：[下载链接](https://pan.baidu.com/s/11Xvp-V0L5Cg8-LCNBWan2w?pwd=ccst)（提取码：ccst）
 
 <p align="center">
   <img src="doc\run.png" width="50%">
