@@ -4,8 +4,8 @@
 
 
 <p align="center">
-  <a href=".\doc\ti4all.png">
-    <img src=".\doc\ti4all.png" width="60%" >
+  <a href=".\docs\ti4all.png">
+    <img src=".\docs\ti4all.png" width="60%" >
   </a>
 </p>
 <p align="center">
@@ -48,7 +48,7 @@
 - 百度网盘：[下载链接](https://pan.baidu.com/s/11Xvp-V0L5Cg8-LCNBWan2w?pwd=ccst)（提取码：ccst）
 
 <p align="center">
-  <img src="doc\run.png" width="50%">
+  <img src="docs\run.png" width="50%">
 </p>
 
 - 当需求仅为 **获得大量核酸报告识别结果** （大多数场景）
@@ -66,7 +66,7 @@
 - “核酸检测图片文件夹” 示例：
 
 <p align="center">
-  <img src="doc\example2.png" width="80%">
+  <img src="docs\example2.png" width="80%">
 </p>
 
 
@@ -102,15 +102,15 @@ python main.py
 主程序界面：
 
 <p align="center">
-  <img src="doc\exe1.jpg" width="70%">
+  <img src="docs\exe1.jpg" width="70%">
 </p>
 
 
 保存结果：（为确保程序稳健性保留了部分异常数据用于测试）
 
 <p align="center">
-  <img src="doc\res1.png" width="70%">
-  <img src="doc\res2.png" width="70%">
+  <img src="docs\res1.png" width="70%">
+  <img src="docs\res2.png" width="70%">
 </p>
 
 ## 更新日志
@@ -159,7 +159,7 @@ TI4ALL
 │  └── app.py
 ├── data				// 存放示例文件格式
 ├── log	
-├── doc
+├── docs
 ├── requirements.txt
 ├── README.md
 ```
